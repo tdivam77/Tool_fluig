@@ -1,6 +1,6 @@
 Tải tool về bằng lệnh
 
-git clone https://github.com/tdivam77/Tool_fluig.git
+`git clone https://github.com/tdivam77/Tool_fluig.git`
 
 Hoặc tải trực tiếp.
 
